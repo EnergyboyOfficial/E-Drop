@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let drawing = false;
 
     // Connect to the server via WebSocket
-    const socket = io.connect('http://localhost:3000');
+    const socket = io.connect('http://localhost:5000');
 
     canvas.addEventListener('mousedown', startDrawing);
     canvas.addEventListener('mouseup', stopDrawing);
