@@ -17,7 +17,7 @@ Energetic Laboratories's Expression Studio is an interactive pixel drawing platf
 ## Usage:
 
 1. **Dive into Expression:**
-   - Visit [**Energetic Laboratories's Expression Studio**](https://yourdomain.com) and plunge into a dynamic world of collaborative pixel art.
+   - Visit [**Energetic Laboratories's Expression Studio**](http://localhost:5000) and plunge into a dynamic world of collaborative pixel art.
 
 2. **Pixelate Creativity:**
    - Craft your masterpiece with a simple mouse click, bringing vibrant pixels to life on the shared canvas.
