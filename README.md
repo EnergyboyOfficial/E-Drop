@@ -15,17 +15,20 @@ Energetic Laboratories's Expression Studio is an interactive pixel drawing platf
 # Usage:
 ## 1. Access Expression Studio:
 Visit Energetic Laboratories's Expression Studio to access the collaborative drawing platform.
+
 ## 2. Express Creativity:
 Utilize the mouse to draw pixels on the canvas.
 Zoom in and out with the mouse wheel for detailed artistic expression.
 Engage in real-time collaboration with other users.
-## 3. Clear the Canvas:
 
+## 3. Clear the Canvas:
 Click the "Clear Canvas" button to reset the canvas, synchronizing the action for all participants.
+
 # Technologies Used:
 HTML, CSS, JavaScript
 Node.js, Express.js
 Socket.IO for real-time communication
+
 # How to Run Locally:
 ## 1. Clone the repository:
 git clone https://github.com/yourusername/expression-studio.git
